@@ -1,0 +1,11 @@
+C:\Users\Jesper\Visual Studio Code\Flexybox project\bin\Debug\netcoreapp2.1\Flexybox project.deps.json
+C:\Users\Jesper\Visual Studio Code\Flexybox project\bin\Debug\netcoreapp2.1\Flexybox project.runtimeconfig.json
+C:\Users\Jesper\Visual Studio Code\Flexybox project\bin\Debug\netcoreapp2.1\Flexybox project.runtimeconfig.dev.json
+C:\Users\Jesper\Visual Studio Code\Flexybox project\bin\Debug\netcoreapp2.1\Flexybox project.dll
+C:\Users\Jesper\Visual Studio Code\Flexybox project\bin\Debug\netcoreapp2.1\Flexybox project.pdb
+C:\Users\Jesper\Visual Studio Code\Flexybox project\obj\Debug\netcoreapp2.1\Flexybox project.csprojAssemblyReference.cache
+C:\Users\Jesper\Visual Studio Code\Flexybox project\obj\Debug\netcoreapp2.1\Flexybox project.csproj.CoreCompileInputs.cache
+C:\Users\Jesper\Visual Studio Code\Flexybox project\obj\Debug\netcoreapp2.1\Flexybox project.AssemblyInfoInputs.cache
+C:\Users\Jesper\Visual Studio Code\Flexybox project\obj\Debug\netcoreapp2.1\Flexybox project.AssemblyInfo.cs
+C:\Users\Jesper\Visual Studio Code\Flexybox project\obj\Debug\netcoreapp2.1\Flexybox project.dll
+C:\Users\Jesper\Visual Studio Code\Flexybox project\obj\Debug\netcoreapp2.1\Flexybox project.pdb
